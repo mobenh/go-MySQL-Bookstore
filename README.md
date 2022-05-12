@@ -53,6 +53,6 @@ go run main.go
     "publication": "Orion"
 }
  ```
- * Create a GET request to get all data localhost:9010/book
+ * Create a GET request to get all data localhost:9010/book/
  * Create a DELETE request with localhost:9010/book/3/
    * (3 is the ID of the data, can be changed to desired data that needs to be deleted)
